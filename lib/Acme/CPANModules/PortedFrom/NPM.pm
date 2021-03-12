@@ -17,6 +17,11 @@ _
             tags => ['cli', 'color'],
         },
         {
+            module => 'App::envset',
+            npm_module => 'envset',
+            tags => ['cli','configuration'],
+        },
+        {
             module => 'Inky',
             npm_module => 'inky',
             tags => ['html', 'template'],
