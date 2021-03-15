@@ -45,7 +45,7 @@ _
 =head1 DESCRIPTION
 
 
-=head1 SEE ALSO
+=head1 prepend:SEE ALSO
 
 More on the same theme of modules ported from other languages:
 L<Acme::CPANModules::PortedFrom::Java>,
