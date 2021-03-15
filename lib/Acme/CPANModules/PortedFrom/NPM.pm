@@ -12,6 +12,11 @@ If you know of others, please drop me a message.
 _
     entries => [
         {
+            module => 'App::AsciiChart',
+            npm_module => 'asciichart',
+            tags => ['cli', 'chart'],
+        },
+        {
             module => 'App::chalk',
             npm_module => 'chalk',
             tags => ['cli', 'color'],
