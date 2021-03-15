@@ -43,3 +43,12 @@ _
 # ABSTRACT:
 
 =head1 DESCRIPTION
+
+
+=head1 SEE ALSO
+
+More on the same theme of modules ported from other languages:
+L<Acme::CPANModules::PortedFrom::Java>,
+L<Acme::CPANModules::PortedFrom::PHP>,
+L<Acme::CPANModules::PortedFrom::Python>,
+L<Acme::CPANModules::PortedFrom::Ruby>.
