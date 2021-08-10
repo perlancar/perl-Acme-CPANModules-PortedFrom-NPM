@@ -2,3 +2,4 @@ Acme-CPANModules-PortedFrom-NPM-*
 .build
 *~
 nytprof*
+.DS_Store
