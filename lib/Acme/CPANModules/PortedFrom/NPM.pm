@@ -42,6 +42,11 @@ _
             npm_module => 'optimist',
             tags => ['html', 'template'],
         },
+        {
+            module => 'Is::Bot',
+            npm_module => 'isbot',
+            tags => ['http', 'browser', 'webbot'],
+        },
     ],
 };
 
