@@ -1,13 +1,19 @@
 package Acme::CPANModules::PortedFrom::NPM;
 
+use strict;
+
+# AUTHORITY
 # DATE
+# DIST
 # VERSION
 
 our $LIST = {
-    summary => "Modules/applications that are ported (or inspired from) NPM libraries",
+    summary => "List of modules/applications that are ported (or inspired from) NPM libraries",
     description => <<'_',
 
 If you know of others, please drop me a message.
+
+Keywords: JavaScript, JS, npmjs
 
 _
     entries => [
@@ -52,3 +58,5 @@ L<Acme::CPANModules::PortedFrom::Java>,
 L<Acme::CPANModules::PortedFrom::PHP>,
 L<Acme::CPANModules::PortedFrom::Python>,
 L<Acme::CPANModules::PortedFrom::Ruby>.
+
+L<https://www.npmjs.com>
