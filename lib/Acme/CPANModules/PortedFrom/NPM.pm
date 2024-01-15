@@ -52,6 +52,11 @@ _
             npm_module => 'lodash',
             tags => [],
         },
+        {
+            module => 'Hash::Util::Pick',
+            npm_module => 'lodash',
+            tags => [],
+        },
     ],
 };
 
