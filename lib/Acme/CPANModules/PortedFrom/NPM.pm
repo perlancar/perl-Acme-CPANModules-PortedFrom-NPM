@@ -47,6 +47,11 @@ _
             npm_module => 'isbot',
             tags => ['http', 'browser', 'webbot'],
         },
+        {
+            module => 'Sub::Fp',
+            npm_module => 'lodash',
+            tags => [],
+        },
     ],
 };
 
