@@ -57,6 +57,11 @@ _
             npm_module => 'lodash',
             tags => [],
         },
+        {
+            module => 'Text::Handlebars',
+            npm_module => 'handlebars',
+            tags => [],
+        },
     ],
 };
 
